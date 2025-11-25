@@ -1,45 +1,62 @@
-## Olá! Eu sou o Jefferson Santos 🖐️
+# Jefferson Costa dos Santos
 
-### 🚀 Sobre mim:
-- 💻 Apaixonado por tecnologia e desenvolvimento de software.  
-- ⚙️ Focado em **Backend**, **automação de processos** e **bancos de dados**.  
-- 📊 Experiência em manipulação de dados, relatórios e integração com **SQL**.  
-- 🌍 Objetivo: criar soluções eficientes que facilitem o dia a dia das empresas.  
+Profissional de Tecnologia com foco em desenvolvimento backend, automação de processos e soluções orientadas a dados. Experiência em Python, SQL, manipulação de dados, criação de sistemas internos e integração entre diferentes fontes de informação. Atuação voltada para eficiência, organização e entrega de resultados.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
+## Resumo Profissional
 
-- **Linguagens de Programação**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Desenvolvedor com experiência em:
 
-- **Frameworks e Bibliotecas**:  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-  ![Flet](https://img.shields.io/badge/Flet-007ACC?style=for-the-badge)  
+- Construção de aplicações backend utilizando Python (Flask, FastAPI e Django).
+- Automação de processos e padronização de rotinas operacionais.
+- Manipulação, limpeza e integração de dados com MySQL e SQLite.
+- Desenvolvimento de ferramentas internas e interfaces utilizando Flet.
+- Criação de dashboards e relatórios em Excel e Power BI.
+- Otimização de sistemas já existentes e suporte técnico.
 
-- **Banco de Dados**:  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+Meu objetivo é desenvolver soluções que reduzam retrabalho, aumentem produtividade e facilitem o dia a dia das equipes.
 
 ---
 
-### 🌟 No que estou trabalhando:
-- 🔧 Criando aplicações **backend** com Python + SQL.  
-- 📊 Automatizando relatórios e processos de manipulação de dados.  
-- ⚙️ Desenvolvendo aplicações web com **Django** e **FastAPI**.  
-- 📈 Explorando o uso de dashboards em Excel e Power BI.  
+## Habilidades Técnicas
+
+### Linguagens
+- Python  
+- JavaScript  
+
+### Frameworks e Ferramentas
+- Flask  
+- FastAPI  
+- Django  
+- Flet  
+
+### Banco de Dados
+- MySQL  
+
+### Outras Competências
+- Automação de tarefas  
+- Processamento e análise de dados  
+- Criação de scripts para integração entre sistemas  
+- Desenvolvimento de relatórios e painéis gerenciais  
 
 ---
 
-### 📫 Contato: 
-- [E-mail](mailto:jefferson.c.santos02@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/jefferson-costa-dos-santos-1a2247273)  
+## Projetos em Destaque
+
+**Automação de Relatórios para Clientes**  
+Sistema desenvolvido para coletar, tratar e organizar dados provenientes de múltiplas planilhas, automatizando a geração de relatórios para diversos clientes.
+
+**Aplicação em Flet para Gerenciamento de Tarefas**  
+Ferramenta interna com filtros, controle de horários, conexão com SQL e visual limpo, voltada para organização de rotinas.
+
+**Integração de Múltiplas Abas Excel com MySQL**  
+Script responsável por importar abas, tratar dados e inserir em banco SQL, eliminando processos manuais e reduzindo erros.
 
 ---
 
-### 📊 Minhas estatísticas:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jheff-codes&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jheff-codes&layout=compact&theme=dracula)
+## Contato
+
+- **E-mail:** jefferson.c.santos02@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/jefferson-costa-dos-santos-1a2247273  
+
